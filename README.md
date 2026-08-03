@@ -4,4 +4,6 @@
 
 [![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/a8541404-3924-4a4d-944c-fe3fa8e41aaf.jpeg?v=1785641825)](https://www.boot.dev/certificates/a8541404-3924-4a4d-944c-fe3fa8e41aaf)
 
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7aca6cf8-9e4a-48ad-9752-7e751afc9de3.jpeg?v=1785797169)](https://www.boot.dev/certificates/7aca6cf8-9e4a-48ad-9752-7e751afc9de3)
+
 [![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb.jpeg?v=1785435033)](https://www.boot.dev/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb)
