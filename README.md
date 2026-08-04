@@ -8,4 +8,6 @@
 
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/554c338b-634d-47fc-a4eb-79f237ad08c0.jpeg?v=1785812554)](https://www.boot.dev/certificates/554c338b-634d-47fc-a4eb-79f237ad08c0)
 
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/57c0f01c-7d86-4530-b0e8-325d3c540f04.jpeg?v=1785871870)](https://www.boot.dev/certificates/57c0f01c-7d86-4530-b0e8-325d3c540f04)
+
 [![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb.jpeg?v=1785435033)](https://www.boot.dev/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb)
