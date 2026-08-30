@@ -16,4 +16,6 @@
 
 [![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb.jpeg?v=1785435033)](https://www.boot.dev/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb)
 
+[![Boot.dev First Personal Project certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ca54c145-10d6-499e-916b-268868eaad1f.jpeg?v=1788103142)](https://www.boot.dev/certificates/ca54c145-10d6-499e-916b-268868eaad1f)
+
 [![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b8b5ccca-2acc-49b7-8cfc-99d089ad5dbb.jpeg?v=1787827604)](https://www.boot.dev/certificates/b8b5ccca-2acc-49b7-8cfc-99d089ad5dbb)
