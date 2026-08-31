@@ -19,3 +19,5 @@
 [![Boot.dev First Personal Project certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ca54c145-10d6-499e-916b-268868eaad1f.jpeg?v=1788103142)](https://www.boot.dev/certificates/ca54c145-10d6-499e-916b-268868eaad1f)
 
 [![Boot.dev Learn Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b8b5ccca-2acc-49b7-8cfc-99d089ad5dbb.jpeg?v=1787827604)](https://www.boot.dev/certificates/b8b5ccca-2acc-49b7-8cfc-99d089ad5dbb)
+
+[![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/1607bb87-acbf-4284-905e-0f947de0faed.jpeg?v=1788186896)](https://www.boot.dev/certificates/1607bb87-acbf-4284-905e-0f947de0faed)
