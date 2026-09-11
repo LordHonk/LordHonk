@@ -16,6 +16,8 @@
 
 [![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/eaeece31-af64-402f-8872-4b7d432c9d16.jpeg?v=1786396136)](https://www.boot.dev/certificates/eaeece31-af64-402f-8872-4b7d432c9d16)
 
+[![Boot.dev Build a Static Site Generator in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b2894c66-b178-435f-a99b-0524efe8e52d.jpeg?v=1789135130)](https://www.boot.dev/certificates/b2894c66-b178-435f-a99b-0524efe8e52d)
+
 [![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb.jpeg?v=1785435033)](https://www.boot.dev/certificates/ce9a4566-b6f9-4e50-bf21-f7a22ce217eb)
 
 [![Boot.dev First Personal Project certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/ca54c145-10d6-499e-916b-268868eaad1f.jpeg?v=1788103142)](https://www.boot.dev/certificates/ca54c145-10d6-499e-916b-268868eaad1f)
