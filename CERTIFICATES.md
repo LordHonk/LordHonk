@@ -31,3 +31,5 @@
 [![Boot.dev Learn JavaScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/18259f5f-07a0-48fd-9b04-8c13032a635b.jpeg?v=1788513624)](https://www.boot.dev/certificates/18259f5f-07a0-48fd-9b04-8c13032a635b)
 
 [![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4ce8bc09-679a-47b9-b1da-596984c77883.jpeg?v=1789027198)](https://www.boot.dev/certificates/4ce8bc09-679a-47b9-b1da-596984c77883)
+
+[![Boot.dev Learn Git 2 certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c43460e5-b5f8-449a-a6ed-698c90dffbc0.jpeg?v=1789380840)](https://www.boot.dev/certificates/c43460e5-b5f8-449a-a6ed-698c90dffbc0)
