@@ -37,3 +37,5 @@
 [![Boot.dev Learn Git 2 certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/c43460e5-b5f8-449a-a6ed-698c90dffbc0.jpeg?v=1789380840)](https://www.boot.dev/certificates/c43460e5-b5f8-449a-a6ed-698c90dffbc0)
 
 [![Boot.dev Learn Docker certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5ee3fad8-03a5-4f1e-b3a4-4511e2f3f796.jpeg?v=1790606983)](https://www.boot.dev/certificates/5ee3fad8-03a5-4f1e-b3a4-4511e2f3f796)
+
+[![Boot.dev Learn Cryptography in Go certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/96215c5e-d156-4382-8c45-2856147cef89.jpeg?v=1791549032)](https://www.boot.dev/certificates/96215c5e-d156-4382-8c45-2856147cef89)
